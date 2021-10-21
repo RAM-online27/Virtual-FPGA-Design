@@ -3,7 +3,7 @@
 ## **_contents of the course_**
 - [About the tutorial](#about-the-tutorial)
 - [Introduction to Virtual FPGA](#Introduction-to-Virtual-FPGA)
-- [Makerchip Platform?](#makerchip-platform)
+- [Makerchip Platform](#makerchip-platform)
 - [Virtual FPGA Boards](#virtual-fpga-boards)
 - [Leds Interfacing](#Leds-interfacing)
 - [7 segment display interfacing](#7segment-display-interfacing)
@@ -24,11 +24,13 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
 
  - Field-Programmable Gate Array(FPGA) is a hardware circuit that a user can program to carry out logical operations.
  - FPGAs are beneficial for prototyping application-specific integrated circuits (ASICs) or processors
- - The advantage of FPGA being energy-efficient, flexible to reprogram, support parallelism, decreased latency made them widely used in many applications.
+ - The advantage of FPGA beproject Virtual FPGA Lab aims to solve the problem by taking advantage of the VIZ Visualization feature in the Makerchip platform and providing visualisations of FPGA’s basic peripherals, thereby mimicking the physical lab experienceing energy-efficient, flexible to reprogram, support parallelism, decreased latency made them widely used in many applications.
+ - FPGA’s are a bit costly and difficult to learn for beginners. Also, students don’t have access to physical FPGA Lab classes in their curriculum amidst this pandemic situation.
+ - project Virtual FPGA Lab aims to solve the problem by taking advantage of the VIZ Visualization feature in the Makerchip platform and providing visualisations of FPGA’s basic peripherals, thereby mimicking the physical lab experience
 
-## **_About the tutorial_**
-## **_Day 1:Intoduction to MOSFET & Spice Simulation_**
-- ### **_1.1 MOSFET(NMOS)BASICS_**.
+## **_Makerchip Platform_**
+ - Makerchip is a free web-based IDE as well as available as makerchip-app, a virtual desktop application for developing high-quality integrated circuits
+
   
     
 
