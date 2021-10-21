@@ -1,5 +1,5 @@
 # DIGITAL DESIGN ON  VIRTUAL FPGA
-![](simulation/banner.jpg)
+![](simulation/banner.PNG)
 ## **_contents of the course_**
 - [About the tutorial](#about-the-tutorial)
 - [Introduction to Virtual FPGA](#Introduction-to-Virtual-FPGA)
