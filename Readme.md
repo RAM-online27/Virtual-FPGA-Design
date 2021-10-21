@@ -8,7 +8,7 @@
 - [Leds Interfacing](#Leds-interfacing)
 - [7 segment display interfacing](#7segment-display-interfacing)
 - [4-Way Traffic Light Controller Design](#4way-traffic-light-controller-design)
-- Finite State Machine(#finite-state-machine)
+- Finite State Machine(#FINITE-STATE-MACHINE)
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
 
