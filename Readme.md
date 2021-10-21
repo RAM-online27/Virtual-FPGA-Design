@@ -7,7 +7,8 @@
 - [Virtual FPGA Boards](#virtual-fpga-boards)
 - [Leds Interfacing](#Leds-interfacing)
 - [7 segment display interfacing](#7segment-display-interfacing)
-- [4-Way Traffic Light Controller Design](#4-way-traffic-light-controller-design)
+- [4-Way Traffic Light Controller Design](#4way-traffic-light-controller-design)
+- Finite State Machine(#finite-state-machine)
 - [References](#references)
 - [Acknowledgement](#acknowledgement)
 
@@ -25,9 +26,7 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
  - Field-Programmable Gate Array(FPGA) is a hardware circuit that a user can program to carry out logical operations.
  - FPGAs are beneficial for prototyping application-specific integrated circuits (ASICs) or processors
  - The advantage of FPGA beproject Virtual FPGA Lab aims to solve the problem by taking advantage of the VIZ Visualization feature in the Makerchip platform and providing visualisations of FPGA’s basic peripherals, thereby mimicking the physical lab experienceing energy-efficient, flexible to reprogram, support parallelism, decreased latency made them widely used in many applications.
- - FPGA’s are a bit costly and difficult to learn for beginners. Also, students don’t have access to physical FPGA Lab classes in their curriculum amidst this pandemic situation.
- - project Virtual FPGA Lab aims to solve the problem by taking advantage of the VIZ Visualization feature in the Makerchip platform and providing visualisations of FPGA’s basic peripherals, thereby mimicking the physical lab experience
-
+ 
 ## **_Makerchip Platform_**
  - Makerchip is a free web-based IDE as well as available as makerchip-app, a virtual desktop application for developing high-quality integrated circuits.
  - a virtual desktop application for developing high-quality integrated circuits. we can code, compile, simulate, and debug Verilog designs, with help of our browser. Your code, block diagrams, and waveforms are tightly integrated.
@@ -37,6 +36,9 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
  - Visual Debug,Organized Waveforms,Organized Diagrams are some of the advantages in TL-verilog.
  
  ## **_Virtual FPGA Boards_**
+ 
+ - FPGA’s are a bit costly and difficult to learn for beginners. Also, students don’t have access to physical FPGA Lab classes in their curriculum amidst this pandemic situation.
+ - Virtual FPGA Lab aims to solve the problem by taking advantage of the VIZ Visualization feature in the Makerchip platform and providing visualisations of FPGA’s basic peripherals, thereby mimicking the physical lab experience.
  - The Below mentioned FPGA Boards are available in the makerchip platform for virtual simulation. 
  - 1. Zedboard Zynq-7000 ARM/FPGA SoC Development Board.
  - 2. EDGE Artix 7 FPGA Development Board.
@@ -44,12 +46,27 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
  - 4. Icebreaker FPGA.
  - 5. Nexys A7.  
 
+  ## **_LEDS INTERFACING_**
+  - The code used to initialize the FPGA board is given below
+  ![](simulation/Banner.jpg)
+  - The code used to initialize the LED module is given below
+  ![](simulation/Banner.jpg)
+  - The video recorded during the LED Simulation is given below
+  - The code used for this simulation.
   
-     
 
- ![](simulation/day1/A1.PNG)
-  - NMOS Construction  
-    - MOSFET has four terminals G= GATE D= DRAIN S=SOURCE B=BODY
-    - Gate oxide is made up of SiO2 layer that acts as insolation.
-    - Metal gate is place over the gate oxide layer 
-    - it has a P-type Substrate 
+  - The link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0O7h250)
+  
+  ## **_7segment Display Interfacing_**
+  - The code used to initialize the FPGA board is given below
+  ![](simulation/Banner.jpg)
+  - The code used to initialize the LED module is given below
+  ![](simulation/Banner.jpg)
+  - The video recorded during the LED Simulation is given below
+  - The code used for this simulation.
+  
+  - the link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0P1h5vZ)
+  
+  
+  ## **_4way Traffic Light Controller Design_**
+  
