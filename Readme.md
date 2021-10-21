@@ -2,7 +2,7 @@
 ![](simulation/Banner.jpg)
 ## **_contents of the course_**
 - [About the tutorial](#about-the-tutorial)
-- [Introduction to FPGA & Virtual FPGA](#Introduction-to-FPGA-&-Virtual-FPGA)
+- [Introduction to Virtual FPGA](#Introduction-to-Virtual-FPGA)
 - [Makerchip Platform?](#makerchip-platform)
 - [Virtual FPGA Boards](#virtual-fpga-boards)
 - [Leds Interfacing](#Leds-interfacing)
@@ -20,7 +20,7 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
  - Introduction to Finite State Machines theory
  - Verilog Finite State Machine implementation of traffic light controller design.
 
-## **_Introduction to FPGA & Virtual FPGA_**
+## **_Introduction to Virtual FPGA_**
 
  - Field-Programmable Gate Array(FPGA) is a hardware circuit that a user can program to carry out logical operations.
  - FPGAs are beneficial for prototyping application-specific integrated circuits (ASICs) or processors
