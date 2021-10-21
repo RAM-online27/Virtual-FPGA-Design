@@ -58,15 +58,41 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   - The link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0O7h250)
   
   ## **_7segment Display Interfacing_**
-  - The code used to initialize the FPGA board is given below
+  - The Circuit of 7segment Display is given below
   ![](simulation/Banner.jpg)
   - The code used to initialize the LED module is given below
   ![](simulation/Banner.jpg)
-  - The video recorded during the LED Simulation is given below
+  - The image recorded during the LED Simulation is given below
+  ![](simulation/Banner.jpg)
   - The code used for this simulation.
+  ![](simulation/Banner.jpg)
   
   - the link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0P1h5vZ)
   
   
   ## **_4way Traffic Light Controller Design_**
+  - The image of common 4way Traffic Signal is given below
+  ![](simulation/Banner.jpg)
+  - The image used to represent the FSM logic is given below
+  ![](simulation/Banner.jpg)
+  - The video recorded during the 4-Way Traffic Light Controller Design Simulation is given below.
+  - The code used for this simulation is in the link provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0Q1hNBJ#)
+  
+  ## **_FINITE STATE MACHINE_**
+  - Finite state machine logic is abstract model of computation that is used to model logic
+  - There are two types of FSM logic: 1) Mealy FSM 2) Moore FSM.
+  -  Mealy FSM depends on both input & present state while Moore FSM depends on only present state only.
+  - The image of 15 rupee vending machine's Mealy FSM logic is given below
+  ![](simulation/Banner.jpg)
+  - The image of 15 rupee vending machine's Moore FSM logic is given below
+  ![](simulation/Banner.jpg)
+  
+  ## **_References_**
+
+- https://github.com/BalaDhinesh/Digital-Design-on-FPGA--VSDOpen21.git
+- 
+## **_Acknowledgement_**
+
+- Bala Dhinesh, Technical assistant of the course "DIGITAL DESIGN ON  VIRTUAL FPGA" conducted on VSD open tutorial 2021.
+- Kunal Ghosh, Co-founder,VLSI System Design.
   
