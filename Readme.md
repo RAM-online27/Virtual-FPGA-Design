@@ -29,7 +29,7 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
  
 ## **_Makerchip Platform_**
  - Makerchip is a free web-based IDE as well as available as makerchip-app, a virtual desktop application for developing high-quality integrated circuits.
- - a virtual desktop application for developing high-quality integrated circuits. we can code, compile, simulate, and debug Verilog designs, with help of our browser. Your code, block diagrams, and waveforms are tightly integrated.
+ - A virtual desktop application for developing high-quality integrated circuits. we can code, compile, simulate, and debug Verilog designs, with help of our browser. Your code, block diagrams, and waveforms are tightly integrated.
  - Makerchip supports the emerging Transaction-Level Verilog standard.
  - Transaction-Level Verilog, or TL-Verilog, represents a huge step forward by eliminating the need for the legacy language features of Verilog and by introducing simpler syntax.
  - At the same time, TL-Verilog adds powerful constructs for pipelines and transactions.
@@ -48,24 +48,24 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
 
   ## **_LEDS INTERFACING_**
   - The code used to initialize the FPGA board is given below
-  ![](simulation/Banner.jpg)
+  ![](simulation/P1.PNG)
   - The code used to initialize the LED module is given below
-  ![](simulation/Banner.jpg)
+  ![](simulation/P2.PNG)
   - The video recorded during the LED Simulation is given below
   - The code used for this simulation.
-  
-
+  ![](simulation/P2_1.PNG)
   - The link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0O7h250)
   
   ## **_7segment Display Interfacing_**
   - The Circuit of 7segment Display is given below
-  ![](simulation/Banner.jpg)
-  - The code used to initialize the LED module is given below
-  ![](simulation/Banner.jpg)
-  - The image recorded during the LED Simulation is given below
-  ![](simulation/Banner.jpg)
+  ![](simulation/P4.PNG)
+  ![](simulation/P5.PNG)
+  - The code used to initialize the 7segment Display module is given below
+  ![](simulation/P3.PNG)
+  - The image recorded during the 7segment Display Simulation is given below
+  ![](simulation/P7.PNG)
   - The code used for this simulation.
-  ![](simulation/Banner.jpg)
+  ![](simulation/P6.PNG)
   
   - the link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0P1h5vZ)
   
