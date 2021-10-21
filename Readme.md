@@ -2,7 +2,7 @@
 ![](simulation/Banner.jpg)
 ## **_contents of the course_**
 - [About the tutorial](#about-the-tutorial)
-- [Introduction to FPGA & Virtual FPGA](#introduction-to-FGA-&-virtual-FPGA)
+- [Introduction to FPGA & Virtual FPGA](#Introduction-to-FPGA-&-Virtual-FPGA)
 - [Makerchip Platform?](#makerchip-platform)
 - [Virtual FPGA Boards](#virtual-fpga-boards)
 - [Leds Interfacing](#Leds-interfacing)
