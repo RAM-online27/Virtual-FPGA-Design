@@ -72,9 +72,9 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   
   ## **_4way Traffic Light Controller Design_**
   - The image of common 4way Traffic Signal is given below
-  ![](simulation/Banner.jpg)
+  ![](simulation/P8.PNG)
   - The image used to represent the FSM logic is given below
-  ![](simulation/Banner.jpg)
+  ![](simulation/P9.PNG)
   - The video recorded during the 4-Way Traffic Light Controller Design Simulation is given below.
   - The code used for this simulation is in the link provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0Q1hNBJ#)
   
@@ -83,9 +83,9 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   - There are two types of FSM logic: 1) Mealy FSM 2) Moore FSM.
   -  Mealy FSM depends on both input & present state while Moore FSM depends on only present state only.
   - The image of 15 rupee vending machine's Mealy FSM logic is given below
-  ![](simulation/Banner.jpg)
+  ![](simulation/P10.PNG)
   - The image of 15 rupee vending machine's Moore FSM logic is given below
-  ![](simulation/Banner.jpg)
+  ![](simulation/P11.PNG)
   
   ## **_References_**
 
