@@ -52,6 +52,7 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   - The code used to initialize the LED module is given below
   ![](simulation/P2.PNG)
   - The video recorded during the LED Simulation is given below
+  ![](simulation/R1.mp4)
   - The code used for this simulation.
   ![](simulation/P2_1.PNG)
   - The link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0O7h250)
