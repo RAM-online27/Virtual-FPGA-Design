@@ -29,10 +29,22 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
  - project Virtual FPGA Lab aims to solve the problem by taking advantage of the VIZ Visualization feature in the Makerchip platform and providing visualisations of FPGA’s basic peripherals, thereby mimicking the physical lab experience
 
 ## **_Makerchip Platform_**
- - Makerchip is a free web-based IDE as well as available as makerchip-app, a virtual desktop application for developing high-quality integrated circuits
+ - Makerchip is a free web-based IDE as well as available as makerchip-app, a virtual desktop application for developing high-quality integrated circuits.
+ - a virtual desktop application for developing high-quality integrated circuits. we can code, compile, simulate, and debug Verilog designs, with help of our browser. Your code, block diagrams, and waveforms are tightly integrated.
+ - Makerchip supports the emerging Transaction-Level Verilog standard.
+ - Transaction-Level Verilog, or TL-Verilog, represents a huge step forward by eliminating the need for the legacy language features of Verilog and by introducing simpler syntax.
+ - At the same time, TL-Verilog adds powerful constructs for pipelines and transactions.
+ - Visual Debug,Organized Waveforms,Organized Diagrams are some of the advantages in TL-verilog.
+ 
+ ## **_Virtual FPGA Boards_**
+ - The Below mentioned FPGA Boards are available in the makerchip platform for virtual simulation. 
+ - 1. Zedboard Zynq-7000 ARM/FPGA SoC Development Board.
+ - 2. EDGE Artix 7 FPGA Development Board.
+ - 3. Basys 3 Artix-7 FPGA Trainer Board.                                                                                                                                          - 4. Icebreaker FPGA.
+ - 5. Nexys A7. 
 
   
-    
+     
 
  ![](simulation/day1/A1.PNG)
   - NMOS Construction  
