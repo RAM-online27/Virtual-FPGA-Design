@@ -90,7 +90,6 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   ## **_References_**
 
 - https://github.com/BalaDhinesh/Digital-Design-on-FPGA--VSDOpen21.git
-- 
 ## **_Acknowledgement_**
 
 - Bala Dhinesh, Technical assistant of the course "DIGITAL DESIGN ON  VIRTUAL FPGA" conducted on VSD open tutorial 2021.
