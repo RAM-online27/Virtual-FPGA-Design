@@ -52,7 +52,8 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   - The code used to initialize the LED module is given below
   ![](simulation/P2.PNG)
   - The video recorded during the LED Simulation is given below
-  ![](simulation/R1.mp4)
+ https://user-images.githubusercontent.com/90440391/138312454-49b4fd14-b890-4727-9763-c3ca5e75e872.mp4
+ 
   - The code used for this simulation.
   ![](simulation/P2_1.PNG)
   - The link to the Led interfacing simulation is provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0O7h250)
@@ -77,6 +78,7 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   - The image used to represent the FSM logic is given below
   ![](simulation/P9.PNG)
   - The video recorded during the 4-Way Traffic Light Controller Design Simulation is given below.
+  https://user-images.githubusercontent.com/90440391/138311530-0f7c34c1-f051-4ce3-9e73-90a44cffbb89.mp4
   - The code used for this simulation is in the link provided : [Link](https://makerchip.com/sandbox/031fmhjM2/0Q1hNBJ#)
   
   ## **_FINITE STATE MACHINE_**
