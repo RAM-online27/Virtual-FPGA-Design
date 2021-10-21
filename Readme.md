@@ -63,7 +63,7 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
   - The code used to initialize the 7segment Display module is given below
   ![](simulation/P3.PNG)
   - The image recorded during the 7segment Display Simulation is given below
-  ![](simulation/P7.PNG)
+  ![](simulation/P7.png)
   - The code used for this simulation.
   ![](simulation/P6.PNG)
   
