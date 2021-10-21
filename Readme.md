@@ -40,8 +40,8 @@ In this 'DIGITAL DESIGN ON  VIRTUAL FPGA' conducted by [VLSI System Design]( htt
  - The Below mentioned FPGA Boards are available in the makerchip platform for virtual simulation. 
  - 1. Zedboard Zynq-7000 ARM/FPGA SoC Development Board.
  - 2. EDGE Artix 7 FPGA Development Board.
- - 3. Basys 3 Artix-7 FPGA Trainer Board.                                                                                                                                          - 4. Icebreaker FPGA.
- - 5. Nexys A7. 
+ - 3. Basys 3 Artix-7 FPGA Trainer Board.                                                                                                                                           - 4. Icebreaker FPGA.
+ - 5. Nexys A7.  
 
   
      
